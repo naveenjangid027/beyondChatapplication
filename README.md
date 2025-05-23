@@ -216,7 +216,7 @@ This project is deployed on Lovable's platform and can be easily deployed to:
 
 ## 👨‍💻 Developer
 
-Built with ❤️ by a passionate developer for the BeyondChats internship assignment.
+Built with development tools  by a passionate developer for the BeyondChats internship assignment.
 
 **Contact:** Available for questions and further development opportunities.
 
